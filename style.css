@@ -1,0 +1,443 @@
+.middle{
+    background-image: url(images/infinite-loop-01.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.middle:hover{
+    background-image: url(images/gallery-img-05.jpg);
+    transition: 1s;
+}
+.middle.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 100px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+}
+.infinite{
+    font-size: 32px;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    padding-left: 140px;
+    position: relative;
+    top: 30px;
+}
+.infinite:hover{
+    color: blue;
+}
+.navbar{
+    margin-left: 750px;
+}
+.navbar a{
+    position: relative;
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 40px;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+.navbar a:hover{
+    background-color: rgb(50, 50, 172);
+}
+.middle h1{
+    align-items: center;
+    font-weight: 300;
+    font-size: 70px;
+    color: white;
+    padding-top: 10%;
+    padding-left: 38%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.boot{
+    align-items: center;
+    font-weight: 50;
+    font-size: 20px;
+    color: white;
+    margin-top: 1%;
+    padding-left: 43%;
+    padding-top: -190%;
+}
+p.free{
+    align-items: center;
+    font-weight: 50;
+    font-size: 20px;
+    color: white;
+    margin-top: -10px;
+    padding-left: 42%;
+}
+#sec2{
+    height: 100vh;
+    width: 95%;
+}
+.text{
+    height: 20%;
+}
+.text h1{
+    color: rgb(64, 64, 158);
+    padding-left: 35px;
+    font-size: 40px;
+}
+p.para{
+    padding-left: 35px;
+    text-align: start;
+    font-size: larger;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a.toop{
+    text-decoration: none;
+}
+.col{
+    height: 300px;
+    width: 50%;
+}
+.mar i{
+ font-size: 40px;
+ padding-left: 15px;
+ color: rgb(64, 64, 158);
+}
+.mar{
+    display: flex;
+    align-items: start;
+    
+}
+.mar h1{
+    font-size: 40px;
+    color: rgb(64, 64, 158);
+    padding-left: 15px;
+}
+.sed{
+    padding-left: 15px;
+    font-size: 23px;
+}
+.cla i{
+    font-size: 40px;
+    padding-left: 15px;
+    color: rgb(64, 64, 158);
+   }
+.cla{
+    display: flex;
+    align-items: start;
+}
+.cla h1{
+    font-size: 40px;
+    color: rgb(64, 64, 158);
+    padding-left: 15px;
+}
+.you{
+    padding-left: 15px;
+    font-size: 23px;
+}
+.learn{
+    margin-left: 25px;
+    margin-top: 20px;
+    padding: 15px;
+    width: 140px;
+    color: white;
+    background-color: rgb(64, 64, 158);
+    border: none;
+    font-size: larger;
+}
+.col2{
+    margin-top: -280px;
+}
+.faste{
+    display: flex;
+    align-items: end;
+}
+.faste i{
+    font-size: 40px;
+    padding-left: 15px;
+    color: rgb(64, 64, 158);
+   }
+.fast{
+    align-items: end;
+    padding-left: 800px;
+}
+.faste h1{
+    font-size: 40px;
+    color: rgb(64, 64, 158);
+    padding-right: 15px;
+}
+.credit{
+    padding-right: 15px;
+    font-size: 23px;
+}
+.soci{
+    display: flex;
+    align-items: end;
+}
+.soci i{
+    font-size: 40px;
+    padding-left: 15px;
+    color: rgb(64, 64, 158);
+   }
+.social{
+    align-items: end;
+    padding-left: 800px;
+}
+.soci h1{
+    font-size: 40px;
+    color: rgb(64, 64, 158);
+    padding-right: 15px;
+}
+.can{
+    padding-right: 15px;
+    font-size: 23px;
+}
+.learn2{
+    margin-left: 810px;
+    margin-top: 1px;
+    padding: 15px;
+    width: 120px;
+    color: white;
+    background-color: rgb(64, 64, 158);
+    border: none;
+    font-size: larger;
+}
+.sec3{
+    height: 100vh;
+    background-image: url(images/infinite-loop-02.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.word{
+    height: 30vh;
+}
+h1.test{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    padding-top: 80px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.nulla{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.pelle{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.imgs{
+  padding-left: 170px;
+  padding-top: 130px;
+}
+.img1{
+  width: 30%;
+  text-align: center;
+  float: left;
+}
+.poo:hover{
+  width: 180px;
+  height: 180px;
+  transition: 2s;
+}
+.img1 img{
+    border-radius: 50%;
+}
+.img1 p{
+    font-size: 18px;
+    color: white;
+}
+.sec3:hover{
+    background-image: url(images/infinite-loop-02-mobile.jpg);
+    transition: 1s;
+}
+.sec4{
+    height: 100vh;
+}
+h1.gallery{
+    margin-left: 700px;
+    font-size: 50px;
+    padding-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(64, 64, 158);
+}
+.pre{
+    margin-left: 430px;
+    font-size: 20px;
+}
+.nib{
+    margin-left: 490px;
+    font-size: 20px;
+}
+.photo{
+    margin-top: 90px;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.photo img{
+ width: 22%;
+ height: 45vh;
+  text-align: center;
+}
+.pho:hover{
+  height: 55vh;
+  text-align: center;
+  padding: 10px;
+  transition: 0.2s;
+}
+.sec5{
+    height: 130vh;
+    background-image: url(images/infinite-loop-03.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.wor{
+    height: 30vh;
+}
+h1.con{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    padding-top: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.proi{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.vel{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.area{
+  padding-top: 80px;
+}
+.are{
+    display: block;
+    padding-left: 250px;
+}
+.inp1{
+    height: 60px;
+    width: 300px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px; 
+    padding-left: 10px;
+}
+.inp2{
+    height: 60px;
+    width: 300px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px; 
+    padding-left: 10px;
+}
+.inp3{
+    height: 250px;
+    width: 300px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px; 
+    padding-left: 10px;
+    padding-top: 10px;
+    color: rgb(78, 77, 77);
+}
+.sub{
+    height: 60px;
+    width: 190px;
+    border-radius: 10px;
+    background-color: rgb(64, 64, 158);
+    font-size: larger; 
+    color: white;
+}
+.left{
+  padding-left: 100px;
+}
+.chat{
+    color: white;
+    font-size: 40px;
+    padding-left: 600px;
+    margin-top:-530px;
+}
+.chat:hover{
+    font-size: 55px;
+}
+.cha{
+    color: white;
+    font-size: 23px;
+    padding-left: 20px;
+    margin-top: -530px;
+}
+.ara{
+    display: flex;
+}
+.arae{
+    display: flex;
+}
+.mail{
+    color: white;
+    font-size: 40px;
+    padding-left: 600px;
+    margin-top:-450px;
+}
+.mail:hover{
+    font-size: 55px;
+}
+.mai{
+    color: white;
+    font-size: 23px;
+    padding-left: 20px;
+    margin-top: -450px;
+}
+.our{
+    display: flex;
+}
+.locat{
+    color: white;
+    font-size: 40px;
+    padding-left: 600px;
+    margin-top:-350px;
+}
+.locat:hover{
+    font-size: 55px;
+}
+.loc{
+    color: white;
+    font-size: 23px;
+    padding-left: 20px;
+    margin-top: -350px;
+}
+.tele{
+    display: flex;
+}
+.tala{
+    color: white;
+    font-size: 40px;
+    padding-left: 600px;
+    margin-top:-250px;
+}
+.tala:hover{
+    font-size: 55px;
+}
+.tela{
+    color: white;
+    font-size: 23px;
+    padding-left: 20px;
+    margin-top: -250px;
+}
